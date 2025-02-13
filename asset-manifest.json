@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react--letter/static/css/main.cd5f666c.css",
+    "main.js": "/react--letter/static/js/main.70c92a10.js",
+    "static/js/453.c597153d.chunk.js": "/react--letter/static/js/453.c597153d.chunk.js",
+    "static/media/kushi.mp3": "/react--letter/static/media/kushi.86e62c44e26045556df9.mp3",
+    "static/media/black_rose3-removebg-preview.png": "/react--letter/static/media/black_rose3-removebg-preview.dc340a8827b9f4ae0dfd.png",
+    "index.html": "/react--letter/index.html",
+    "main.cd5f666c.css.map": "/react--letter/static/css/main.cd5f666c.css.map",
+    "main.70c92a10.js.map": "/react--letter/static/js/main.70c92a10.js.map",
+    "453.c597153d.chunk.js.map": "/react--letter/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5f666c.css",
+    "static/js/main.70c92a10.js"
+  ]
+}

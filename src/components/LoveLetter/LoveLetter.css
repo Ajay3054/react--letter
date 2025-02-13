@@ -79,13 +79,7 @@
     background-position: (70px - 50px) calc(50% - 50px) /* Center the image */
   }
 
-   .image-background2 {
-    width: 300px; /* Set your desired width */
-    height: 200px; /* Set your desired height */
-    background-image: url('C:\Users\user\Desktop\React-Letter\react--letter\src\components\LoveLetter\img1.png'); /* Path to your image */
-    background-size: contain; /* Cover the entire area */
-    background-position: 25% 25%; /* Center the image */
-  }
+
   
   .text-color {
     color: rgb(119, 29, 29); /* Change to your desired color */

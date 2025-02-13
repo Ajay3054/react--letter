@@ -39,7 +39,7 @@ const LoveLetter = () => {
         Never have i been so blessed as To Have in My Life as wonderful as you...<br />
         Thank For EveryThing Mardalu..<br />
         Wishing you a Very Happy Ventine's Day.. <br/>
-        always yours With Lots Of LOVE <br />
+        always yours With Lots Of LOVE To "Cara Mia" <br />
         Bava 🖤
       
       </div>
